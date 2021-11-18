@@ -1,6 +1,6 @@
 # Hello there 👋
 
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/frengky-sihombing/)
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/frengky-sihombing-87047513a/)
 
 I am a software developer dedicated on bringing value to communities around me. Aside from software development I have a burning passion for teaching, and creating content to share my knowledge to anyone willing to learn. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
 
